@@ -40,8 +40,6 @@ We appreciate contributions! If you have suggestions or improvements, please for
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
 This project is licensed under the MIT License. For more details, see the LICENSE file
 ## Contact Us
 For inquiries, feedback, or suggestions, please reach out:
